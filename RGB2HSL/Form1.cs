@@ -16,6 +16,7 @@ namespace RGB2HSL
         {
             InitializeComponent();
         }
+        //RGB
         int R_value = 0;
         int G_value = 0;
         int B_value = 0;
