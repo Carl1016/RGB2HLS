@@ -1,0 +1,10 @@
+C:\Users\Carl\source\repos\RGB2HSL\RGB2HSL\bin\Debug\RGB2HSL.exe.config
+C:\Users\Carl\source\repos\RGB2HSL\RGB2HSL\bin\Debug\RGB2HSL.exe
+C:\Users\Carl\source\repos\RGB2HSL\RGB2HSL\bin\Debug\RGB2HSL.pdb
+C:\Users\Carl\source\repos\RGB2HSL\RGB2HSL\obj\Debug\RGB2HSL.csprojAssemblyReference.cache
+C:\Users\Carl\source\repos\RGB2HSL\RGB2HSL\obj\Debug\RGB2HSL.Form1.resources
+C:\Users\Carl\source\repos\RGB2HSL\RGB2HSL\obj\Debug\RGB2HSL.Properties.Resources.resources
+C:\Users\Carl\source\repos\RGB2HSL\RGB2HSL\obj\Debug\RGB2HSL.csproj.GenerateResource.cache
+C:\Users\Carl\source\repos\RGB2HSL\RGB2HSL\obj\Debug\RGB2HSL.csproj.CoreCompileInputs.cache
+C:\Users\Carl\source\repos\RGB2HSL\RGB2HSL\obj\Debug\RGB2HSL.exe
+C:\Users\Carl\source\repos\RGB2HSL\RGB2HSL\obj\Debug\RGB2HSL.pdb
